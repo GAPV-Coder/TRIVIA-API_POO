@@ -1,4 +1,4 @@
-//**************************** Gustavo Pereira  ****************************
+//**************************** Daniel Hidalgo  ****************************
 
 export default class Request {
 	static getCategories() {
